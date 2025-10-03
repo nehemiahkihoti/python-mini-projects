@@ -1,4 +1,6 @@
 # Python Mini Projects
+*Updated for SSH test push*
+
 
 This repository contains small Python programs and games I'm building as part of my 12-week AI Bootcamp.  
 
